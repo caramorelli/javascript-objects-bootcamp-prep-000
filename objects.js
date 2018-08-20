@@ -4,7 +4,9 @@ function updatePlaylist(playlist, artist, song) {
   
 }
 
-function removeFromPlaylist(playlist, artist)
+function removeFromPlaylist(playlist, artist) {
+  
+}
 
 
 // const expect = require('chai').expect
